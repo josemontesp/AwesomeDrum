@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2013\Projects\T2 Jose Montes\T2 Jose Montes\bin\Debug\T2 Jose Montes.exe.config
+c:\users\administrador\documents\visual studio 2013\Projects\T2 Jose Montes\T2 Jose Montes\bin\Debug\T2 Jose Montes.exe
+c:\users\administrador\documents\visual studio 2013\Projects\T2 Jose Montes\T2 Jose Montes\bin\Debug\T2 Jose Montes.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\T2 Jose Montes\T2 Jose Montes\obj\Debug\T2 Jose Montes.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\T2 Jose Montes\T2 Jose Montes\obj\Debug\T2 Jose Montes.exe
+c:\users\administrador\documents\visual studio 2013\Projects\T2 Jose Montes\T2 Jose Montes\obj\Debug\T2 Jose Montes.pdb
