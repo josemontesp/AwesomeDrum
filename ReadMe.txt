@@ -1,3 +1,7 @@
+This is a console application to compose and play drum songs! see la_poderosa_muerte.wav as an example of what can be done with this
+
+To run this project you need to have VisualStudio installed on your machine.
+Just open the .sln file
 
 ######################################################################
 #########################  Readme Tarea 2  ###########################
